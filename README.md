@@ -75,7 +75,7 @@ Not every directory is worth your time. This list is filtered to **directories t
 
 - **[AlternativeTo](https://alternativeto.net)** · DR 76 · dofollow · free — List as alternative to competitors.
 - **[SaaSHub](https://www.saashub.com)** · DR 76 · dofollow · free — Register then submit.
-- **[SaaSCity](https://saascity.io)** · DR 59 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
+- **[SaaSCity](https://saascity.io)** · DR 64 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
 - **[GoodFirms](https://www.goodfirms.co)** · DA 55 · dofollow · free + paid tier
 - **[Alternative.me](https://alternative.me)** · DA 55 · dofollow · free
 - **[SaaSWorthy](https://www.saasworthy.com)** · DR 52 · dofollow · free + paid tier
