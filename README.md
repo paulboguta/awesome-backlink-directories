@@ -68,6 +68,7 @@ Not every directory is worth your time. This list is filtered to **directories t
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[SitePatent](https://sitepatent.com/)** · free with homepage badge, paid from $19 — Startups, tools and online products by category and tech stack.
 
 ## SaaS Directories
 
