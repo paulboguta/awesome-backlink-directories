@@ -4,7 +4,7 @@
 
 Not every directory is worth your time. This list is filtered to **directories that actually link back to your site** — no nofollow-only, no dead listings. Sorted by category and tagged with domain authority so you can prioritize the highest-leverage submissions.
 
-**72 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
+**74 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
 
 ## Contents
 
@@ -115,6 +115,8 @@ Not every directory is worth your time. This list is filtered to **directories t
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[AITrustList](https://aitrustlist.com)** · dofollow · free + paid tier — AI tools directory ranked by verified traffic and growth.
+- **[AIHuntList](https://aihuntlist.com)** · dofollow · free + paid tier — Navigation hub for 3,000+ AI apps across 200+ categories.
 
 ## Developer Tool Directories
 
